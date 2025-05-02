@@ -14,6 +14,8 @@ un comentario
 en varias líneas
 */
 
+console.log("¡Hola, JavaScript!") // console es para escribir en consola y log es la funcion 
+
 console.log("¡Hola, JavaScript!")
 console.log('¡Hola, JavaScript!')
 console.log(`¡Hola, JavaScript!`)
